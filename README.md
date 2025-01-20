@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexandre, you can call me Alex
+- 👋 Hi, I’m Alexandre, but you can call me Alex
 - 👀 I’m interested in developping my skills, especially in programming, as I love creativity
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
