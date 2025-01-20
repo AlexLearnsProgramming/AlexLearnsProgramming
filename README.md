@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlexLearnsProgramming
-- 👀 I’m interested in developping my skills
-- 🌱 I’m currently learning Python/Javascript
+- 👋 Hi, I’m Alexandre, you can call me Alex
+- 👀 I’m interested in developping my skills, especially in programming, as I love creativity
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : I come from the STMG field, which focuses on management and business studies. I realized that it wasn't my thing, so I switched to programming
 
